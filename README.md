@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hello, there! I'm Vitor! 🤙🏽☮
 
-<!--
-**vitorlpx/vitorlpx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 👨🏽‍💻 I’m currently learning JavaScript. 
 
-Here are some ideas to get you started:
+<a><img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white"></img></a>
+<a><img src="https://img.shields.io/badge/CSS3-F6F6F6?style=for-the-badge&logo=css3&logoColor=black"></img></a>
+<a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white"></img></a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### A little about myself!
+
+- Front end developer.
+- I'm Vitor, I'm 16 years old and I'm just a programmer with a desire to go far! 
+
