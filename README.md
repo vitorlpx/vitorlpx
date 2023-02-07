@@ -8,7 +8,7 @@
 
 ### A little about myself!
 
-- Front end developer.
+- Front-end developer.
 - I'm Vitor, I'm 16 years old and I'm just a programmer with a desire to go far! 
 
 ### My social newtorks:
