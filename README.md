@@ -1,6 +1,6 @@
 ### Hello, there! I'm Vitor! 🤙🏽☮
 
-- 👨🏽‍💻 I’m currently learning JavaScript. 
+- 👨🏽‍💻 I’m currently learning JavaScript, Python and Java.
 
 <a><img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/CSS3-F6F6F6?style=for-the-badge&logo=css3&logoColor=black"></img></a>
