@@ -1,6 +1,6 @@
 ### Hello, there! I'm Vitor! 🤙🏽☮
 
-- 👨🏽‍💻 I’m currently learning JavaScript, Python and Java.
+- 👨🏽‍💻 I’m currently learning Python and Java.
 
 ### My skills:
 
