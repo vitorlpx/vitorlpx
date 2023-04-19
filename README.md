@@ -17,5 +17,5 @@
 - Front-end developer.
 - I'm Vitor, I'm 17 years old and I'm just a programmer with a desire to go far! 
 
-### My social newtorks:
+### Connect with me.
 <a href="https://www.linkedin.com/in/vitor-lopes-914811236/"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=black"> </img></a>
