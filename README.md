@@ -1,8 +1,8 @@
-### Hello, there! I'm Vitor! 🤙🏽☮
+<a style="text-align:center"># Ola! Eu sou o Vitor Lopes. 🤙🏽☮</a>
 
-- 👨🏽‍💻 I’m currently learning Python and Java.
+- 👨🏽‍💻 Atualmente estou aprendendo Java e Python.
 
-### My skills:
+### Minhas habilidades:
 
 <a><img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/CSS3-F6F6F6?style=for-the-badge&logo=css3&logoColor=black"></img></a>
@@ -12,11 +12,11 @@
 <a><img src="https://img.shields.io/badge/MongoDB-F6F6F6?style=for-the-badge&logo=mongodb&logoColor=black"></img></a>
 
 
-### A little about myself!
+### Um pouco sobre mim!
 
-- Front-end developer.
-- I'm Vitor, I'm 17 years old and I'm just a programmer with a desire to go far!
-- I am currently taking the course Sementes do Brasil Tech, provided by @TokioMarine with @FIAP.
+- Fullstack Developer.
+- Tenho 17 anos, e tenho muita vontade de aprender novas coisas a cada dia!
+- Atualmente estou fazendo o curso Sementes do Brasil Tech, disponibilizado pela @TokioMarine com a @FIAP.
 
-### Connect with me:
+### Conecte-se comigo:
 <a href="https://www.linkedin.com/in/vitor-lopes-914811236/"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=black"> </img></a>
