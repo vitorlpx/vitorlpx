@@ -1,4 +1,4 @@
-<a><center>###Ola! Eu sou o Vitor Lopes. 🤙🏽☮</center></a>
+### Olá! Eu sou o Vitor Lopes. 🤙🏽☮
 
 - 👨🏽‍💻 Atualmente estou aprendendo Java e Python.
 
@@ -15,7 +15,7 @@
 ### Um pouco sobre mim!
 
 - Fullstack Developer.
-- Tenho 17 anos, e tenho muita vontade de aprender novas coisas a cada dia!
+- Tenho 17 anos, e pretendo trabalhar com Desenvolvimento Web ou Desenvolvimento Back-end.
 - Atualmente estou fazendo o curso Sementes do Brasil Tech, disponibilizado pela @TokioMarine com a @FIAP.
 
 ### Conecte-se comigo:
