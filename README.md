@@ -1,4 +1,4 @@
-<a style="text-align:center">###Ola! Eu sou o Vitor Lopes. 🤙🏽☮</a>
+<a><center>###Ola! Eu sou o Vitor Lopes. 🤙🏽☮</center></a>
 
 - 👨🏽‍💻 Atualmente estou aprendendo Java e Python.
 
