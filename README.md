@@ -18,5 +18,8 @@
 - Tenho 17 anos, e pretendo trabalhar com Desenvolvimento Web ou Desenvolvimento Back-end.
 - Atualmente estou fazendo o curso Sementes do Brasil Tech, disponibilizado pela @TokioMarine com a @FIAP.
 
+### Contato:
+- 📩 vitorlopesrmo@gmail.com
+
 ### Conecte-se comigo:
 <a href="https://www.linkedin.com/in/vitor-lopes-914811236/"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=black"> </img></a>
