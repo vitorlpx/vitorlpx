@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vitor Lopes. 🤙🏽☮
 
-- 👨🏽‍💻 Atualmente estou aprendendo Java e Python.
+- 👨🏽‍💻 Atualmente estudando AngularJS e UI & UX.
 
 ### Minhas habilidades:
 
@@ -15,8 +15,9 @@
 ### Um pouco sobre mim!
 
 - Fullstack Developer.
-- Tenho 17 anos, e pretendo trabalhar com Desenvolvimento Web ou Desenvolvimento Back-end.
-- Atualmente estou fazendo o curso Sementes do Brasil Tech, disponibilizado pela @TokioMarine com a @FIAP.
+- Tenho 17 anos e pretendo trabalhar com Desenvolvimento Web ou Desenvolvimento Back-end.
+- Sou apaixonado pela área de UI & UX.
+- Atualmente atuo como Jovem Aprendiz na @TokioMarine.
 
 ### Contato:
 - 📩 vitorlopesrmo@gmail.com
