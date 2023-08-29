@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Vitor Lopes. 🤙🏽☮
 
-- 👨🏽‍💻 Atualmente estudando AngularJS e UI & UX.
+- 👨🏽‍💻 Atualmente estudando Angular e UI & UX.
 
 ### Minhas habilidades:
 
