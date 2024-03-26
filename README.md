@@ -1,22 +1,25 @@
 ### Olá! Eu sou o Vitor Lopes. 🤙🏽☮
 
-- 👨🏽‍💻 Atualmente estudando Angular e UI & UX.
+- 👨🏽‍💻 Atualmente estou estudando/trabalhando com Angular, Vue.js e com o Spring.
 
 ### Minhas habilidades:
 
-<a><img src="https://img.shields.io/badge/HTML5-323330?style=for-the-badge&logo=html5&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/CSS3-F6F6F6?style=for-the-badge&logo=css3&logoColor=black"></img></a>
+https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white
+
+<a><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img></a>
+<a><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></img></a>
+<a><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/Python-F6F6F6?style=for-the-badge&logo=python&logoColor=black"></img></a>
-<a><img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=black"></img></a>
-<a><img src="https://img.shields.io/badge/MongoDB-F6F6F6?style=for-the-badge&logo=mongodb&logoColor=black"></img></a>
 <a><img src="https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=black"></img></a>
+<a><img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=black"></img></a>
+<a><img src="https://img.shields.io/badge/Python-F6F6F6?style=for-the-badge&logo=python&logoColor=black"></img></a>
+<a><img src="https://img.shields.io/badge/MongoDB-F6F6F6?style=for-the-badge&logo=mongodb&logoColor=black"></img></a>
 
 ### Um pouco sobre mim!
 
-- Fullstack Developer.
-- Tenho 17 anos e pretendo trabalhar com Desenvolvimento Web ou Desenvolvimento Back-end.
-- Sou apaixonado pela área de UI & UX.
+- Full-Stack Developer.
+- Tenho 18 anos e sou apaixonado pelo Desenvolvimento Full-Stack e por UI/UX Design.
+- Gosto muito de tecnlogia, amo viver e respirar isso!
 - Atualmente atuo como Jovem Aprendiz na @TokioMarine.
 
 ### Contato:
