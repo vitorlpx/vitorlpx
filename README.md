@@ -9,7 +9,7 @@
 <a><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img></a>
-<a><img src="https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=java&logoColor=black"></img></a>
+<a><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></img></a>
 <a><img src="https://img.shields.io/badge/MongoDB-F6F6F6?style=for-the-badge&logo=mongodb&logoColor=black"></img></a>
 <a><img src="https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=black"></img></a>
 
