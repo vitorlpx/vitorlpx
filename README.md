@@ -1,4 +1,4 @@
-# Olá! Eu sou o Vitor Lopes. 🤙🏽☮
+# Olá! Eu sou o Vitor Lopes 🤙🏽☮
 
 - 👨🏽‍💻 Atualmente estou estudando/trabalhando com Angular, Vue.js e com o Spring.
 
