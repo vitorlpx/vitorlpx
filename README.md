@@ -24,7 +24,7 @@
 - 📃 Certificado **AWS Cloud Practitioner**!
 - 💡 Apaixonado por **resolução de problemas com dados e tecnologia**.
 - 🤝 Comunicativo, proativo, com facilidade para trabalho em equipe!
-- 
+
 ---
 
 ### 📫 Contato
