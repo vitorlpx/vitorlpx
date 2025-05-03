@@ -1,27 +1,36 @@
 # Olá! Eu sou o Vitor Lopes 🤙🏽☮
 
-- 👨🏽‍💻 Atualmente estou estudando/trabalhando com Angular, Vue.js e com o Spring.
+🎓 Estudante de **Inteligência Artificial na FIAP**.  
+💼 +1 ano de experiência como **Desenvolvedor Full Stack**.
+📊 Entusiasta de **Ciência de Dados, IA e Cloud Computing**!
 
-### Minhas habilidades:
+---
 
-<a><img src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D"></img></a>
-<a><img src="https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></img></a>
-<a><img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white"></img></a>
-<a><img src="https://img.shields.io/badge/MySQL-F2F1F2?style=for-the-badge&logo=mysql&logoColor=black"></img></a>
-<a><img src="https://img.shields.io/badge/Figma-323330?style=for-the-badge&logo=figma&logoColor=black"></img></a>
+### 🚀 Tecnologias e Ferramentas
 
-### Um pouco sobre mim!
+<a><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Machine%20Learning-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/></a>
+<a><img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white"/></a>
 
-- Full-Stack Developer.
-- Tenho 18 anos e sou apaixonado pelo Desenvolvimento Full-Stack e por UI/UX Design.
-- Gosto muito de tecnlogia, amo viver e respirar isso!
-- Atualmente atuo como Jovem Aprendiz na @TokioMarine.
+---
 
-### Contato:
-- 📩 vitorlopesrmo@gmail.com
+### 🧠 Sobre Mim
 
-### Conecte-se comigo:
-<a href="https://www.linkedin.com/in/vitor-lopes-914811236/"><img src="https://img.shields.io/badge/LinkedIn-F6F6F6?style=for-the-badge&logo=linkedin&logoColor=black"> </img></a>
+- 🎯 **Objetivo:** Atuar como **Data Analyst**, **Data Scientist** ou **Desenvolvedor Full Stack**.
+- 📃 Certificado **AWS Cloud Practitioner**!
+- 💡 Apaixonado por **resolução de problemas com dados e tecnologia**.
+- 🤝 Comunicativo, proativo, com facilidade para trabalho em equipe!
+- 
+---
+
+### 📫 Contato
+
+- ✉️ vitorlopesrmo@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vitor-lopes-914811236/)
+
+---
+
