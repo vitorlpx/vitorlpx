@@ -1,8 +1,8 @@
 # Olá! Eu sou o Vitor Lopes 🤙🏽☮
 
-🎓 Estudante de **Inteligência Artificial na FIAP**.  
-💼 +1 ano de experiência como **Desenvolvedor Full Stack**.
-📊 Entusiasta de **Ciência de Dados, IA e Cloud Computing**!
+- 🎓 Estudante de **Inteligência Artificial na FIAP**.  
+- 💼 +1 ano de experiência como **Desenvolvedor Full Stack**.
+- 📊 Entusiasta de **Ciência de Dados, IA e Cloud Computing**!
 
 ---
 
